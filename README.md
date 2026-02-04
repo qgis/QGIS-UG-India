@@ -178,7 +178,7 @@ All content is in the `content/` directory:
 
 - `_index.md` - Home page
 - `events.md` - Events listing
-- `who-we-are.md` - Team and member information
+- `about.md` - Team and member information
 - `rules.md` - Community guidelines
 
 You are free to edit or add new files as needed to customize your content. The files use Markdown with Hugo shortcodes.

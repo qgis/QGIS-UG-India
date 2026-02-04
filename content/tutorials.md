@@ -17,11 +17,9 @@ Practical QGIS tutorials, including local data, projections, and workflows.
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-- **Creating maps with correct administrative boundaries** — [Placeholder for steps/downloads]
-- **Working with local coordinate systems** — [Placeholder]
-- **Open data sources (survey, census, imagery)** — [Placeholder]
-- **Local language walkthroughs** — [Links to guides]
-- **Field data collection workflows** — [Placeholder]
+- [Tutorial title] — [1–2 line summary of the tutorial and link]
+- [Tutorial title] — [1–2 line summary of the tutorial and link]
+- [Tutorial title] — [1–2 line summary of the tutorial and link]
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
