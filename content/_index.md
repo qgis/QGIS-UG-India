@@ -1,7 +1,7 @@
 ---
 type: "page"
 title: "QGIS [Country]"
-subtitle: "Connecting QGIS users"
+subtitle: "Connecting QGIS users in our community"
 draft: false
 heroSize: "is-medium"
 heroLogo: "/img/qgis_ch.png"
@@ -16,7 +16,7 @@ ButtonLink: "/events/"
 
 ## Welcome to the QGIS User Group
 
-We are a community of QGIS users promoting open-source geospatial technology. Our mission is to grow QGIS adoption, share knowledge, and support each other on local projects.
+We are a community of QGIS users passionate about open-source geospatial technology. Our mission is to promote the use of QGIS, share knowledge, and support each other in our geospatial projects.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-one-third left-title">}}
@@ -29,11 +29,11 @@ We are a community of QGIS users promoting open-source geospatial technology. Ou
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}} 
 
-- Organize meetups and events
-- Share local use cases and best practices
-- Support QGIS users at all levels
-- Contribute to the QGIS project and plugins
-- Connect with geospatial professionals and institutions
+- Organize regular meetups and events
+- Share best practices and use cases
+- Provide support for QGIS users at all levels
+- Contribute to the QGIS project
+- Network with geospatial professionals
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

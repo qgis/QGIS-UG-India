@@ -1,8 +1,8 @@
 # May be overwritten in .github/workflows/github-pages.yml or other config files
 # Update baseURL for your specific User Group deployment
-baseURL = '/'
+baseURL = 'https://usergroup.qgis.org/'
 languageCode = 'en-us'
-title = 'QGIS [Country] User Group'
+title = 'QGIS User Group Template'
 theme = 'hugo-bulma-blocks-theme'
 # Default pagination.
 # Can override this when needed e.g. {{ range (.Paginator 5).Pages }}
