@@ -5,7 +5,7 @@ export class HomePage {
     public readonly pageBody: Locator;
     // Define locators here
 
-    public readonly textList: string[] = ["QGIS User Conference 2025"];
+    public readonly textList: string[] = ["User Group"];
 
     constructor(public readonly page: Page) {
         this.pageBody = this.page.locator("body");

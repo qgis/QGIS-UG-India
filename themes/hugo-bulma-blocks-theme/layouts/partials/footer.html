@@ -18,8 +18,8 @@
                             </a>
                         </li>
                         {{- range site.Menus.qgis_org }}
-                            {{ range sort .Children "Weight" }}
-                                {{- if eq .Parent "Project" -}}
+                            {{- if eq .Name "Project" }}
+                                {{ range sort .Children "Weight" }}
                                     <li class="mb-4">
                                         <a
                                             class="has-text-white text-nowrap"
@@ -43,8 +43,8 @@
                             </a>
                         </li>
                         {{- range site.Menus.qgis_org }}
-                            {{ range sort .Children "Weight" }}
-                                {{- if eq .Parent "Community" -}}
+                            {{- if eq .Name "Community" }}
+                                {{ range sort .Children "Weight" }}
                                     <li class="mb-4">
                                         <a
                                             class="has-text-white text-nowrap"
@@ -68,8 +68,8 @@
                             </a>
                         </li>
                         {{- range site.Menus.qgis_org }}
-                            {{ range sort .Children "Weight" }}
-                                {{- if eq .Parent "Resources" -}}
+                            {{- if eq .Name "Resources" }}
+                                {{ range sort .Children "Weight" }}
                                     <li class="mb-4">
                                         <a
                                             class="has-text-white text-nowrap"
@@ -93,8 +93,8 @@
                             </a>
                         </li>
                         {{- range site.Menus.qgis_org }}
-                            {{ range sort .Children "Weight" }}
-                                {{- if eq .Parent "Funding" -}}
+                            {{- if eq .Name "Funding" }}
+                                {{ range sort .Children "Weight" }}
                                     <li class="mb-4">
                                         <a
                                             class="has-text-white text-nowrap"
