@@ -67,13 +67,13 @@ dpkg -x hugo_extended_0.139.3_linux-amd64.deb
 
 ### 🪟 Windows
 
-# Setting Up QGIS Website Development Environment (WSL + Hugo)
+#### Setting Up QGIS Website Development Environment (WSL + Hugo)
 
 This guide provides a step-by-step workflow to set up a local development environment for the QGIS website using Windows Subsystem for Linux (WSL) and the Hugo static site generator.
 
 ---
 
-## 1. Initialize WSL and Ubuntu
+##### 1. Initialize WSL and Ubuntu
 WSL allows you to run a Linux environment directly on Windows without the overhead of a traditional virtual machine.
 
 1.  **Install WSL:** Open PowerShell (as a standard user) and run:
@@ -94,7 +94,7 @@ WSL allows you to run a Linux environment directly on Windows without the overhe
 
 ---
 
-## 2. Install Build Essentials and Hugo
+##### 2. Install Build Essentials and Hugo
 The QGIS website development workflow relies on `make` for automation and the `hugo` extended binary for rendering the site.
 
 1.  **Install Make:** Update your package lists and install the make utility:
@@ -112,7 +112,7 @@ The QGIS website development workflow relies on `make` for automation and the `h
 
 ---
 
-## 3. Resolving Folder Permission Issues
+##### 3. Resolving Folder Permission Issues
 When working on a repository stored on your Windows file system (e.g., `/mnt/c/Users/...`), you may encounter errors during `git clone` or when Hugo tries to write to the disk. This is because WSL mounts Windows drives with different permission structures by default.
 
 To fix this, you must remount the drive with **metadata** enabled. This allows Linux to manage file permissions and ownership correctly on the Windows drive.
@@ -130,17 +130,14 @@ To fix this, you must remount the drive with **metadata** enabled. This allows L
 
 ---
 
-## 4. Clone the Repository
+##### 4. Clone the Repository
 Navigate to your preferred directory on your local Windows system via the WSL terminal and clone the repository:
 
 ```bash
 # Example: Navigating to your user Documents folder
 cd /mnt/c/Users/YourUsername/Documents
 ```
-
-# Clone the repository
- git clone https://github.com/QGIS/QGIS-User-Group-Website.git
-cd qgis-website
+cd QGIS-User-Group-Website
 
 ### 🍏 macOS: 
 
