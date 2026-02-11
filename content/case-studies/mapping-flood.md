@@ -4,7 +4,7 @@ title: "QGIS in Action: Mapping Flood Risk and Emergency Response"
 subtitle: "Local success stories"
 draft: false
 sidebar: true
-thumbnail: "../img/flood_6.webp"
+thumbnail: "./img/flood_6.webp"
 
 ---
 
