@@ -11,11 +11,16 @@ sidebar: true
 # Purpose
 
 The QGIS India User Group is made up of professionals, students, and volunteers from across India, working on every aspect of open-source GIS, including learning, teaching, and connecting people.
+
 Diversity is one of our strengths, but it can also lead to communication issues. To that end, we have a few ground rules that we ask people to adhere to when participating in this community. These rules apply equally to organisers, experienced members, and those seeking help and guidance.
+
 This isn't an exhaustive list of things that you can't do. Rather, take it in the spirit in which it's intended: a guide to make it easier to enrich all of us and the technical communities in which we participate.
+
 This code of conduct applies to all spaces managed by the QGIS India User Group. This includes the Telegram group, mailing list, social media channels, events, and any other forums the community uses for communication.
+
 If you violate the code of conduct, you may be banned from the forum and will be blocked from participating in future activities.
-If you believe someone is violating the code of conduct, please report it to any of the group admins at  qgis-india+managers@googlegroups.com
+
+If you believe someone is violating the code of conduct, please report it to any of the group admins at qgis-india+managers@googlegroups.com
 
 ## Code of Conduct
 

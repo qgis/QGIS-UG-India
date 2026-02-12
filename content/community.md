@@ -10,18 +10,7 @@ sidebar: true
 
 # QGIS User Group Ecosystem
 
-Discover companies, contributors, and products supporting QGIS.
-
-{{< columns-start >}}
-{{< column-start class="is-flex-direction-column is-half">}}
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1" >}}
-
-### Companies & Partners
-
-- **[Company name]** — Services offered, location, contact
-- **[Company name]** — Services offered, location, contact
-- **[Company name]** — Services offered, location, contact
+Discover companies, contributors, and products from India supporting QGIS.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -43,20 +32,7 @@ Discover companies, contributors, and products supporting QGIS.
 {{< column-end >}}
 {{< columns-end >}}
 
-{{< columns-start >}}
-{{< column-start class="is-flex-direction-column is-half">}}
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1" >}}
 
-### Contributors & Volunteers
-
-- **[Name]** — Role (events, training, outreach)
-- **[Name]** — Role (plugins, documentation)
-- **[Name]** — Role (community)
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-{{< column-end >}}
 
 {{< column-start class="is-flex-direction-column is-half">}}
 {{< rich-box-start >}}
