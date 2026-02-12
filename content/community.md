@@ -37,10 +37,6 @@ Discover companies, contributors, and products supporting QGIS.
 - **[Survey Helpline Pro](https://plugins.qgis.org/plugins/survey_helpline_pro/#plugin-details)** — The plugin automates spatial data processing for survey projects, with workflows tailored for Survey & Land Records (SS&LR) and Panchayat Raj (SVAMITVA) departments
 - **[Digipin Encoder](https://plugins.qgis.org/plugins/digipin_encoder/#plugin-about)** — Integrates India Post's DIGIPIN system into QGIS, allowing users to generate 10-character DIGIPIN codes from point or polygon layers, decode DIGIPINs to retrieve latitude/longitude, and validate them by zooming to locations on the map
 - **[QRealTime](https://plugins.qgis.org/plugins/QRealTime/#plugin-about)** — Designed and developed in Indian Institute of Remote Sensing, ISRO for mobile data collection
-- **[Indian Watershed Management Support System](https://plugins.qgis.org/plugins/iwams/)** — Developed for planning watershed management projects especially for Indian scenario
-- **[SOI Toposheets Number Calculator](https://plugins.qgis.org/plugins/TopoNum/)** — Calculates the map sheet numbers for the Survey of India Topographical maps from the features of the selected layer
-- **[Jaltol](https://plugins.qgis.org/plugins/jaltol-main/#plugin-about)** — A QGIS python plugin to make water balances for villages/watersheds in rural India
-- **[India Geocoder](https://github.com/yashdeep01/India-GeoCoder?tab=readme-ov-file)** — Developed specifically for Indian health data collected by Ministry of Health & Family Welfare, Government of India under the digital initiative of National Health Mission
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
