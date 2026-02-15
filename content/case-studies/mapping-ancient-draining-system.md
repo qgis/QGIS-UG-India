@@ -10,7 +10,7 @@ thumbnail: "./img/drainage_system_1.webp"
 
 {{< content-start >}}
 
-# Digital Documentation of an Ancient Drainage System in Betalbatim, Goa using QGIS and QField with Ground Truthing
+# Digital Documentation of an Ancient Drainage System in Betalbatim, Goa using QGIS and QField
 
 This case study describes how **QGIS and QField** were used to identify, digitize, validate, and document a village-scale ancient drainage and water management system in Betalbatim, a coastal village in Goa. The project demonstrates the effectiveness of an **open-source GIS workflow** in uncovering hidden infrastructure assets and enabling evidence-based community governance.
 
