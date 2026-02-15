@@ -4,7 +4,7 @@ title: "Digital Documentation of an Ancient Drainage System in Betalbatim, Goa u
 subtitle: "Regional scale study"
 draft: false
 sidebar: true
-thumbnail: "./img/drainage_system_1.webp"
+thumbnail: "./img/drainage_system_5.webp"
 
 ---
 
@@ -12,7 +12,7 @@ thumbnail: "./img/drainage_system_1.webp"
 
 # Digital Documentation of an Ancient Drainage System in Betalbatim, Goa using QGIS and QField
 
-This case study describes how **QGIS and QField** were used to identify, digitize, validate, and document a village-scale ancient drainage and water management system in Betalbatim, a coastal village in Goa. The project demonstrates the effectiveness of an **open-source GIS workflow** in uncovering hidden infrastructure assets and enabling evidence-based community governance.
+This case study describes how **QGIS** and **QField** were used to identify, digitize, validate, and document a village-scale ancient drainage and water management system in Betalbatim, a coastal village in Goa. The project demonstrates the effectiveness of an **open-source GIS workflow** in uncovering hidden infrastructure assets and enabling evidence-based community governance.
 
 ## Project Background and Objectives
 
@@ -32,10 +32,10 @@ However, the last officially documented survey of the village exists only in a c
 
 The project aimed to achieve the following objectives:
 
-  Digitally document the drainage network using QGIS
-  Validate its existence and condition through systematic field surveys using QField
-  Understand the spatial relationships between drains, ponds, agricultural fields, and village topography
-  Create a reliable geospatial dataset to support village-level planning, restoration, and governance
+- Digitally document the drainage network using QGIS
+- Validate its existence and condition through systematic field surveys using QField
+- Understand the spatial relationships between drains, ponds, agricultural fields, and village topography
+- Create a reliable geospatial dataset to support village-level planning, restoration, and governance
 
 ## Methodology
 
@@ -62,8 +62,8 @@ To ground-truth the digitized drainage network, SpatialCraft deployed QField for
 <p align="center"><em>Fig. 4. Geotagging and field data collection using QField at a heritage man-made pond functioning as a rainwater collection and recharge point within the drainage network.</em></p>
 
 QField served two key purposes:
-  Navigation to specific drainage features using mobile GIS
-  Documentation of on-ground conditions through geotagged photographs and observations
+- Navigation to specific drainage features using mobile GIS
+- Documentation of on-ground conditions through geotagged photographs and observations
   
 This approach enabled efficient ground truthing of features that were partially visible, ambiguous, submerged, or obstructed.
 
@@ -71,18 +71,18 @@ This approach enabled efficient ground truthing of features that were partially 
 
 All field-collected data from QField was synchronized back into the QGIS desktop environment. Geotagged photographs, field notes, and updated attributes were analyzed alongside the digitized drainage network.
 The analysis revealed the system’s complexity and intentional design, including:
-  Interconnected drainage paths guiding water toward village ponds
-  Integration with agricultural fields for controlled water dispersal
-  Terrain-aware routing optimized for monsoon rainfall
+- Interconnected drainage paths guiding water toward village ponds
+- Integration with agricultural fields for controlled water dispersal
+- Terrain-aware routing optimized for monsoon rainfall
 
 ## Outputs and Maps
 
 The project resulted in:
 
-  A validated GIS database of Betalbatim’s traditional drainage and water resources
-  A comprehensive village-level water resource and drainage map
-  A WebGIS map enabling interactive exploration of the drainage network
-  Printed map layouts generated using Print Layout tool for use by the Village Panchayat
+- A validated GIS database of Betalbatim’s traditional drainage and water resources
+- A comprehensive village-level water resource and drainage map
+- A WebGIS map enabling interactive exploration of the drainage network
+- Printed map layouts generated using Print Layout tool for use by the Village Panchayat
   
 Additionally, areas with blocked drains, submerged sections, and locations where mature trees had grown within drainage paths were clearly identified and mapped.
 
@@ -97,10 +97,10 @@ This QGIS and QField-based workflow transformed fragmented historical records an
 
 These outputs now enable:
 
-  Evidence-based planning for drainage revival and maintenance
-  Identification of priority intervention zones
-  Integration of heritage infrastructure considerations into development approvals
-  Strategic planning for flood management and rainwater harvesting over the next planning cycle
+- Evidence-based planning for drainage revival and maintenance
+- Identification of priority intervention zones
+- Integration of heritage infrastructure considerations into development approvals
+- Strategic planning for flood management and rainwater harvesting over the next planning cycle
   
 The project also strengthened community engagement by reconnecting residents with forgotten infrastructure created by earlier generations.
 
