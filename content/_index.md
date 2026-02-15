@@ -54,6 +54,10 @@ We are a community of QGIS users passionate about open-source geospatial technol
 
 Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join our events, participate in discussions, and help grow the community.
 
+&nbsp;&nbsp;<i class="fab fa-telegram-plane"></i> [Telegram Group](https://t.me/+YVUWbgjA320wZGU1)  
+&nbsp;&nbsp;<i class="fas fa-envelope"></i> qgis-india@googlegroups.com  
+&nbsp;&nbsp;<i class="fab fa-linkedin"></i> [LinkedIn Page](https://www.linkedin.com/groups/17314018/)  
+
 [See our upcoming events](/events/)
 
 {{< rich-content-end >}}
