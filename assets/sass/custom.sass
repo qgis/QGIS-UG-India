@@ -5,6 +5,39 @@
 // The new theme includes carousel, download, and payrexx components we don't need
 // This is handled by the theme's component system
 
+// Simplified top navigation bar
+.simple-top-nav
+  background-color: #fff
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1)
+  min-height: 52px
+
+  .simple-top-nav-container
+    display: flex
+    align-items: center
+    justify-content: space-between
+    width: 100%
+    padding: 0.5rem 1.5rem
+
+  .simple-top-nav-logo
+    display: flex
+    align-items: center
+    img
+      height: 36px
+      width: auto
+
+  .simple-top-nav-link
+    display: flex
+    align-items: center
+    gap: 0.35rem
+    color: #589632
+    font-weight: 500
+    padding: 0.5rem 1rem
+    border-radius: 4px
+    transition: background-color 0.2s
+    &:hover
+      background-color: #f5f5f5
+      color: #3d7a1c
+
 // Override: Hero section image styling for India UG
 .hero-image
   .hero-container

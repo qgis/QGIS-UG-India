@@ -1,14 +1,15 @@
-{{ $isLocal := (or (eq .Site.BaseURL "/") (strings.Contains .Site.BaseURL "localhost")) }}
-{{ $locationPrefix := .Site.Params.uniNavHeaderLocationPrefix }}
-{{ $logoIcon := .Site.Params.uniNavHeaderLogoIcon | default "https://qgis.org/funders/qgis-usergroup-switzerland.png" }}
+{{ $logoIcon := .Site.Params.uniNavHeaderLogoIcon | default "img/qgis_in.png" }}
 
-
-<qg-top-nav
-    breakpoint="1024"
-    class="is-highest navbar is-fixed-top"
-    location-prefix="{{ $locationPrefix }}"
-    logo-icon="{{ $logoIcon | absURL }}"
-    logo-link="{{ .Site.BaseURL }}"
-    second-menu-prefix="https://in.qgis.org"
-    secondary-menu-config="https://qgis.github.io/QGIS-UG-India/config/navigation.json"
-></qg-top-nav>
+<nav class="navbar is-fixed-top simple-top-nav" role="navigation" aria-label="main navigation">
+    <div class="simple-top-nav-container">
+        <a class="simple-top-nav-logo" href="{{ .Site.BaseURL }}">
+            <img src="{{ $logoIcon | absURL }}" alt="QGIS India User Group" />
+        </a>
+        <a class="simple-top-nav-link" href="https://qgis.org" target="_blank" rel="noopener">
+            Visit QGIS.org
+            <span class="icon is-small">
+                <i class="fas fa-external-link-alt"></i>
+            </span>
+        </a>
+    </div>
+</nav>
