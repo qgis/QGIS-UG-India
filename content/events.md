@@ -14,33 +14,36 @@ Stay updated with our upcoming meetups, workshops, and conferences. Join us to l
 
 ## Upcoming Events
 
-{{< rich-box-start layoutClass="has-right rounded" >}}
+{{< rich-box-start icon="📥" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-2" >}}
+
+No upcoming events at the moment.
+
+[Join the community]({{< relref "/" >}}#join-us) to get announcements for new events.
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+## Past Events
+
+{{< rich-box-start layoutClass="has-right rounded" >}}
+{{< rich-content-start themeClass="coloring-1" >}}
 
 ### QGIS India Community Day (July 2026)
 
-When: Friday 24 July 2026, 7-8pm IST &nbsp;<i class="fas fa-calendar-plus"></i> [Add to Google Calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MG81c2Nxb3VnMnRrNTQ4OXB0NTY0cTFxMGcgY18wNmY3NDZkYmE5ZWEwNDE0OWRmNGFkY2UzOTFmMjZjN2E2ZmVmZGU2ODk0OGFjMThhZDcyNzEwZGM1ODk3YWEwQGc&tmsrc=c_06f746dba9ea04149df4adce391f26c7a6fefde68948ac18ad72710dc5897aa0%40group.calendar.google.com)
+When: Friday 24 July 2026, 7-8pm IST
 
 Where: Online
 
-**Agenda**
+The QGIS India User Group held its monthly community meeting featuring a presentation on NISAR data in QGIS by Dr. Dharmendra Kumar Pandey, a demonstration of calculating satellite data using the ObserveEarth plugin by Krishna Lodha, and a demo of the Chainage Calculator QGIS plugin by Manas Barve.
 
-- NISAR data in QGIS by Dr. Dharmendra Kumar Pandey (30 mins)
-- Calculating Satellite Data Using ObserveEarth Plugin by Krishna Lodha (10 mins)
-- Demonstration of Chainage Calculator QGIS Plugin by Manas Barve (10 mins)
-
-<div class="buttons">
-{{< button class = "is-primary1" link = "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MG81c2Nxb3VnMnRrNTQ4OXB0NTY0cTFxMGcgY18wNmY3NDZkYmE5ZWEwNDE0OWRmNGFkY2UzOTFmMjZjN2E2ZmVmZGU2ODk0OGFjMThhZDcyNzEwZGM1ODk3YWEwQGc&tmsrc=c_06f746dba9ea04149df4adce391f26c7a6fefde68948ac18ad72710dc5897aa0%40group.calendar.google.com" text = "Add To Calendar" >}}
-{{< button class = "is-light1" link = "https://us02web.zoom.us/meetings/89086905274/invitations?signature=qrvFCuaqpUGeg5vobEu7blGc-VFG94XG3eaYVx57syU" text = "Joining Info" >}}
-</div>
+{{< button class = "is-primary1" link = "https://www.youtube.com/watch?v=xMbcNGD8KTA" text = "Watch Recording" >}}
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
 ![](/img/community-day-july-2026.webp)
 {{< rich-right-end >}}
 {{< rich-box-end >}}
-
-## Past Events
 
 {{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-1" >}}
