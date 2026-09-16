@@ -23,7 +23,12 @@ When: Friday 18 September 2026, 7-8pm IST
 
 Where: Online
 
-We are inviting speakers for this month's community day. If you would like to present a talk, demo, or plugin showcase, fill out the speaker invitation form.
+Join us for this month's community day:
+
+- Introduction and Community Updates (5 mins)
+- Working with QGIS 3D by Pratiksha Chalke (25 mins)
+- Professional Map Production in QGIS by Rahul Gawai (25 mins)
+- Q & A (5 mins)
 
 <div class="buttons">
 {{< button class = "is-primary1" link = "https://us02web.zoom.us/meetings/89086905274/invitations?signature=qrvFCuaqpUGeg5vobEu7blGc-VFG94XG3eaYVx57syU" text = "Joining Info" >}}
