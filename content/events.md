@@ -14,8 +14,20 @@ Stay updated with our upcoming meetups, workshops, and conferences. Join us to l
 
 ## Upcoming Events
 
-{{< rich-box-start layoutClass="has-right rounded" >}}
+{{< rich-box-start icon="📥" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-2" >}}
+
+No upcoming events at the moment.
+
+[Join the community]({{< relref "/" >}}#join-us) to get announcements for new events.
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+
+## Past Events
+
+{{< rich-box-start layoutClass="has-right rounded" >}}
+{{< rich-content-start themeClass="coloring-1" >}}
 
 ### QGIS India Community Day (September 2026)
 
@@ -23,25 +35,15 @@ When: Friday 18 September 2026, 7-8pm IST
 
 Where: Online
 
-Join us for this month's community day:
+The QGIS India User Group held its monthly community meeting featuring a presentation on working with QGIS 3D by Pratiksha Chalke and a presentation on professional map production in QGIS by Rahul Gawai.
 
-- Introduction and Community Updates (5 mins)
-- Working with QGIS 3D by Pratiksha Chalke (25 mins)
-- Professional Map Production in QGIS by Rahul Gawai (25 mins)
-- Q & A (5 mins)
-
-<div class="buttons">
-{{< button class = "is-primary1" link = "https://us02web.zoom.us/meetings/89086905274/invitations?signature=qrvFCuaqpUGeg5vobEu7blGc-VFG94XG3eaYVx57syU" text = "Joining Info" >}}
-{{< button class = "is-light1" link = "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MzM5MnEwNjNkYTVjZ3ZkMThlcmU5cTIzaGcgY18wNmY3NDZkYmE5ZWEwNDE0OWRmNGFkY2UzOTFmMjZjN2E2ZmVmZGU2ODk0OGFjMThhZDcyNzEwZGM1ODk3YWEwQGc&tmsrc=c_06f746dba9ea04149df4adce391f26c7a6fefde68948ac18ad72710dc5897aa0%40group.calendar.google.com" text = "Add to Calendar" >}}
-</div>
+{{< button class = "is-primary1" link = "https://www.youtube.com/watch?v=0VWBIVvf6yY" text = "Watch Recording" >}}
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
 ![](/img/community-day-september-2026.webp)
 {{< rich-right-end >}}
 {{< rich-box-end >}}
-
-## Past Events
 
 {{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-1" >}}
