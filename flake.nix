@@ -31,7 +31,6 @@
         system:
         import nixpkgs {
           inherit system;
-          config.allowUnfree = true;
         }
       );
 
@@ -100,7 +99,6 @@
           default = pkgs.mkShell {
             packages = with pkgs; [
               hugo # Hugo for building the website
-              vscode # VSCode for development
               python3Packages.feedparser # Python package: feedparser
               python3Packages.requests # Python package: requests
               python3Packages.pillow # Python package: Pillow
@@ -111,13 +109,7 @@
               export DIRENV_LOG_FORMAT=
               echo "-----------------------"
               echo "🌈 Your Hugo Dev Environment is ready."
-              echo "It provides hugo and vscode for use with the QGIS UC Website Project"
-              echo ""
-              echo "🪛 VSCode:"
-              echo "--------------------------------"
-              echo "Start vscode like this:"
-              echo ""
-              echo "./vscode.sh"
+              echo "It provides hugo for use with the QGIS UC Website Project"
               echo ""
               echo "🪛 Hugo:"
               echo "--------------------------------"
